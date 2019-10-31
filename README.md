@@ -1,15 +1,32 @@
-#title:Lollipops shop
+# lollipops shops
 
-Features
-they are lot of features which i am going to add and use to create this project.
+
+# Introduction
+* i choosed to do this because i want to advertize my friends shops in Ethopia.
+* This project is also going to extend my knowledge on how to use html,js and  css.
+
+### they are lot of features which i am going to add and use to create this project.
 for building , i am going to use :
-html
-css
-js
 
-and features to be found inside are :
-index page
-blog page
-about page
-locations page
-lollipops
+## Technologies features
+1. HTML
+2. CSS
+3. Bootstrap
+4. Javascript
+5. Node.js
+
+
+## Website features  
+* index page
+* blog page
+* about page
+* locations page
+* lollipops
+
+
+
+## Plan 
+* creating front end  
+* creating back end 
+* checking errors
+* SubmitTING
