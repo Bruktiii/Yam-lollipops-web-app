@@ -26,10 +26,14 @@ for building , i am going to use :
 
 
 ## Plan 
-* creating front end  
-* creating back end 
-* checking errors
-* SubmitTING
+* week 9 creating front end 
+* week 10 creating front end
+* week 11 creating front end
+* week 12 creating back end 
+* week 13 creating back end 
+* week 14 creating back end 
+* week 15 checking errors
+* week 16 SubmitTING
 
 
 <p align="center">
