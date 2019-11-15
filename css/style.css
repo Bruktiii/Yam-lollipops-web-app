@@ -12,7 +12,7 @@ a img {
 	display:block;
 }
 .page {
-	width:960px;
+	width:auto;
 	margin:0 auto;
 }
 p a{
@@ -48,7 +48,6 @@ p a:hover {
 	width:425px;
 	height:212px;
 	display: inline-block;
-	float: left;
 }
 .header ul.navigation {
 	float:right;
