@@ -1,4 +1,4 @@
-# lollipops shops
+# Yam lollipops Web App
 
 
 # Introduction
