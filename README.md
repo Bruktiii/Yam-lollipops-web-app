@@ -37,5 +37,5 @@ for building , i am going to use :
 
 
 <p align="center">
->><a href="https://bruktiii.github.io/lollipops-web-app/">Home page</a><<<br>
+>><a href="https://bruktiii.github.io/Yam-lollipops-web-app/">Home page</a><<<br>
 <br>
