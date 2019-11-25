@@ -39,5 +39,5 @@ for building , i am going to use :
 <p align="center">
 >><a href="<p align="center">
 >><a href="https://bruktiii-yam-lollipops-web-app.glitch.me/">Home page</a><<<br>
-<br>">Home page</a><<<br>
+
 <br>
