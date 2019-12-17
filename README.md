@@ -25,19 +25,11 @@ for building , i am going to use :
 
 
 
-## Plan 
-* week 9 creating front end 
-* week 10 creating front end
-* week 11 creating front end
-* week 12 creating back end 
-* week 13 creating back end 
-* week 14 creating back end 
-* week 15 checking errors
-* week 16 SubmitTING
+## Project is done
 
 
 <p align="center">
 >><a href="<p align="center">
->><a href="https://bruktiii-yam-lollipops-web-app.glitch.me/">Glitch link</a><<<br>
+>><a href="https://bruktiii-yam-lollipops-web-app-1.glitch.me/">Glitch link</a><<<br>
 
 <br>
